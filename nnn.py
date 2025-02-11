@@ -1,6 +1,12 @@
 a = 5
 b = 10
 if a > b:
-    print("biger")
+    print("bigger")
 else:
-    print("snaller")
+    print("smaller")
+
+c= 12
+if a+b > c :
+    print('c is small')
+else:
+    c= a+b
